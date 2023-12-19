@@ -9,6 +9,7 @@ Git commit message Format
 - refactor : is used for code restructuring.
 - test : is used for adding tests.
 - chore : is used for changes to the build process or auxiliary tools.
+- WIP:is used for Work In Progress.
 
 
 
